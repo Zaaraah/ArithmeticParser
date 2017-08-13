@@ -1,0 +1,4 @@
+IF(x>y) PRINT(z;
+z=1;
+IF(x>y) z=2;
+PRINT(z);
